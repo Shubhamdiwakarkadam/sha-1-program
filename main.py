@@ -4,7 +4,7 @@
 import hashlib
 
 # initializing string
-str = "GeeksforGeeks"
+str = "hellow"
 
 # encoding GeeksforGeeks using encode()
 # then sending to SHA256()
